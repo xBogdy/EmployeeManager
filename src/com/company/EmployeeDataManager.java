@@ -36,7 +36,6 @@ public class EmployeeDataManager {
                 }
         }
     }
-    //
 
     public static void displayEmployee() {
         for(int i=0;i<employees.size();i++){

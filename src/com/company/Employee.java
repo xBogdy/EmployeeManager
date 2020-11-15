@@ -3,14 +3,11 @@ package com.company;
 import java.time.LocalDate;
 
 public class Employee {
-    //TODO: de sters
-    //TODO: de adaugat surname/birthdate
+
     private String name;
     private String surname;
     private LocalDate birthdate;
-    // surname birthdate
 
-    // getter + setter
 
 
     public Employee(String name, String surname, LocalDate birthdate) {

@@ -18,7 +18,6 @@ public class EmployeeDataManager {
             for (int i = 0; i < x; i++, x++) {
                 System.out.println("Enter employee[" + employees.size() + "]");
                 System.out.println("Enter employee name");
-                // TODO: de inlocuit name[i] surname[i] cu codul comentat
                 String name = scanner.next();
                 System.out.println("Enter employee surname");
                 String surname = scanner.next();
